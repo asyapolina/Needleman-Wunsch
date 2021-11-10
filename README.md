@@ -1,0 +1,2 @@
+# Needleman-Wunsch
+bioinformatics project
